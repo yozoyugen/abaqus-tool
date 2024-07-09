@@ -3,7 +3,6 @@
 abaqus_beam_inp( Lx, Ly, Lz, dx, dy, dz, Fy )
 
 Lx: x length of beam
-
 Ly: y length of beam
 
 Lz: z length of beam
