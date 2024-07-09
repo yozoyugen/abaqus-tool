@@ -3,11 +3,17 @@
 abaqus_beam_inp( Lx, Ly, Lz, dx, dy, dz, Fy )
 
 Lx: x length of beam
+
 Ly: y length of beam
+
 Lz: z length of beam
+
 dx: division number of x direction
+
 dy: division number of y direction
+
 dz: division number of z direction
+
 Fy: value of force(y direction) at free edge
 
 https://g-llc.co.jp/blog/abaqus002/
