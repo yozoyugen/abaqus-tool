@@ -18,4 +18,3 @@ dz: division number of z direction
 
 Fy: value of force(y direction) at free edge
 
-https://g-llc.co.jp/blog/abaqus002/
