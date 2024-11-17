@@ -13,5 +13,10 @@ dy: division number of y direction
 dz: division number of z direction  
 Fy: value of force(y direction) at free edge  
 
+# abaqus_cylinder_inp.m  
+abaqus_cylinder_inp(R, L, dR, dL)  
+  
+# abaqus_plate_inp.m  
+abaqus_plate_inp(Lx, Ly, Lz, dx, dy, dz)  
 
 
