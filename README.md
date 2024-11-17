@@ -20,4 +20,5 @@ abaqus_cylinder_inp(R, L, dR, dL)
 abaqus_plate_inp(Lx, Ly, Lz, dx, dy, dz)  
   
 # drawElement.m  
-
+drawElement(coordmat, elementmat, flag_text)  
+draw nodes and elements
